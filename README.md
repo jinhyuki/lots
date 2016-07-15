@@ -6,7 +6,7 @@ _**Build your city on a strip of land shared with other players**_
 <br>
 
 **Genre:** 
-Online City Building Simulation
+Online city-building simulation
 
 **Platform/Format:**
 iOS, Android, Web
