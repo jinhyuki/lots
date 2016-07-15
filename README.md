@@ -1,7 +1,9 @@
 LOTS - Lords of the Strip
 =====
 
-    Build your city on a strip of land shared with other players
+_**Build your city on a strip of land shared with other players**_
+
+<br>
 
 **Genre:** 
 Online City Building Simulation
